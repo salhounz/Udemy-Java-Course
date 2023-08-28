@@ -1,4 +1,0 @@
-4
-cat dog
-test
-hello what is up
