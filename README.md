@@ -2,11 +2,11 @@
 
 - **Project Description**
 
-		The description of the project goes here.
+		A complete unit-by-unit breakdown of the Udemy Java Tutorial for Complete Beginners.
+		The project begins in the Core Programming Section of the tutorial, and begins with UnitOne
+		with examples such as Hello World and Primitives. However, later units such as UnitSix provide
+		examples and context to more complex concepts such as Polymorphism and Upcasting/Downcasting.
 
-- **Getting Started**
-
-		The description of how to get started with the project goes here.
 
 ## Core Java Programming Overview
 
