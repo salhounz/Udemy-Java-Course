@@ -1,6 +1,10 @@
 package UnitFive;
+
 /*
- *  NOT A MODULE ONLY USED IN Interfaces module
+ * NOT AN INDEPENDENT SECTION FROM THE UDEMY COURSE
+ * 
+ * THIS IS USED IN: Interfaces.java
+ * 
  */
 public interface Info {
 	public void showInfo();

@@ -1,7 +1,9 @@
 package UnitSix;
+
 /*
- * NOT A MODULE
- * ONLY USED for Polymorphism module
+ * NOT AN INDEPENDENT SECTION FROM THE UDEMY COURSE
+ * 
+ * THIS IS USED IN: Polymorphism.java
  * 
  */
 public class Plant {

@@ -1,15 +1,17 @@
 package UnitFive;
 
 /*
- * ONLY USED IN Inheritance module
+ * NOT AN INDEPENDENT SECTION FROM THE UDEMY COURSE
  * 
- * NOT AN ACTUAL MODULE
+ * THIS IS USED IN: Inheritance.java
+ * 
  */
+
 public class Car extends Machine {
 
 	// Will check if there is a method to be overridden
 	// which could cause errors if misspelled
-	// and method strt is generated on accident
+	// and method start is generated on accident
 	@Override
 	public void start() {
 		System.out.println("Car starting...");

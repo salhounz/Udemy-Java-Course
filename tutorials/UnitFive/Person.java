@@ -1,15 +1,18 @@
 package UnitFive;
 
-
 /*
- * NOT A MODULE only used for Interfaces
+ * NOT AN INDEPENDENT SECTION FROM THE UDEMY COURSE
+ * 
+ * THIS IS USED IN: Interfaces.java
+ * 
  */
 public class Person implements Info {
 	private String name;
-	
+
 	public void start() {
 		System.out.println("Starting Person!");
 	}
+
 	public void greet() {
 		System.out.println("Hello there");
 	}
@@ -22,6 +25,6 @@ public class Person implements Info {
 	@Override
 	public void showInfo() {
 		System.out.println("Person's name is: " + name);
-		
+
 	}
 }

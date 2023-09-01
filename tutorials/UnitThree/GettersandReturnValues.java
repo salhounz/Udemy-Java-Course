@@ -31,7 +31,7 @@ class Animal {
 public class GettersandReturnValues {
 
 	public static void main(String[] args) {
-		// TODO
+		
 	}
 
 }

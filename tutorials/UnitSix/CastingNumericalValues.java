@@ -1,7 +1,5 @@
 package UnitSix;
 
-
-
 public class CastingNumericalValues {
 
 	public static void main(String[] args) {
@@ -31,20 +29,18 @@ public class CastingNumericalValues {
 
 		doubleValue = intValue;
 		System.out.println(doubleValue);
-		
+
 		// Casting just cuts off and doesnt round
 		// To round is Math.round()
 		intValue = (int) floatValue;
 		System.out.println(intValue);
-		
-		
+
 		// Will not work as expected too
 		// 128 is too big for byte
 		// So pay attention to caster and castee
 		// and that memory sizes match up
 		byteValue = (byte) 128;
 		System.out.println(byteValue);
-		
 
 	}
 

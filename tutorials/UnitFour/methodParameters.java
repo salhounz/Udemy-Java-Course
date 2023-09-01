@@ -18,7 +18,7 @@ public class methodParameters {
 
 	public static void main(String[] args) {
 		Robot sam = new Robot();
-		
+
 		sam.speak("Hi I'm Sam");
 
 		sam.jump(7);
@@ -26,7 +26,7 @@ public class methodParameters {
 		sam.move("West", 12.2);
 
 		String greeting = "Hello there";
-		
+
 		sam.speak(greeting);
 
 		int value = 14;
