@@ -2,7 +2,7 @@
 
 - **Project Description**
 
-		A complete unit-by-unit breakdown of the Udemy Java Tutorial for Complete Beginners.
+		An ongoing unit-by-unit breakdown of the Udemy Java Tutorial for Complete Beginners.
 		The project begins in the Core Programming Section of the tutorial, and begins with UnitOne
 		with examples such as Hello World and Primitives. However, later units such as UnitSix provide
 		examples and context to more complex concepts such as Polymorphism and Upcasting/Downcasting.
